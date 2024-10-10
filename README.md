@@ -124,7 +124,7 @@
 支持发送【姓名、电话或身份证】进行查询，返回的结果有学习通和支付宝，试了下，信息少但还算准确，支持签到获取积分，解锁结果需要使用积分。
 
 
-社工库账号：  <a href="https://idouyin.io/41" target="_blank">@Xraysgk_bot</a>。 使用教程参考：<a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+社工库账号：  <a href="https://t.me/tg_sgk_share/16" target="_blank">@Xraysgk_bot</a>。 使用教程参考：<a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 <br>
