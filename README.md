@@ -112,12 +112,22 @@
 
 常用查询关键词: QQ|邮箱|用户名|电话|姓名|身份号
 
-地址链接：[@aishegongkubot](https://idouyin.io/41)，，安装Telegram后，复制账号到Telegram搜索账号即可进入。
+地址链接：[@aishegongkubot](https://idouyin.io/41)，安装Telegram后，复制账号到Telegram搜索账号即可进入。
 [Botbot](https://idouyin.io/41)
 
 
 <br>
 
+
+### X-ray社工库
+
+支持发送【姓名、电话或身份证】进行查询，返回的结果有学习通和支付宝，试了下，信息少但还算准确，支持签到获取积分，解锁结果需要使用积分。
+
+
+社工库账号：  <a href="https://idouyin.io/41" target="_blank">@Xraysgk_bot</a>。 使用教程参考：<a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+<br>
 
 
 ### 阿虎社工库机器人 
@@ -325,13 +335,6 @@
 
 
 社工库账号：  <a href="https://idouyin.io/41" target="_blank">@DiDiSGK_Bot</a>。 
-
-### X-ray社工库
-
-支持发送【姓名、电话或身份证】进行查询，返回的结果有学习通和支付宝，试了下，信息少但还算准确，支持签到获取积分，解锁结果需要使用积分。
-
-
-社工库账号：  <a href="https://idouyin.io/41" target="_blank">@Xraysgk_bot</a>。 
 
 
 ### Botnet免费社工机器人
