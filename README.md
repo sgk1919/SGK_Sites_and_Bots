@@ -19,8 +19,13 @@
 
 地址： [https://www.shegongku.top/](https://www.shegongku.top/)。
 
+### 2.Privacy
 
-### 2. LosePrivacy
+一个在线，免费，无需注册的隐私数据泄露检测工具，访问网站即可使用，详情：<a href="https://www.shegongku.top/382.html" target="_blank" >Privacy ，个人数据泄漏检测，QQ绑定、微博绑定查询</a>。
+
+
+
+### 3. LosePrivacy
 
 
 **2024年5月25日更新 LosePrivacy这个网站有网友提醒充值后发现根本查不出什么数据，站长存在跑路风险，谨慎充值，需要得可以尝试其他工具**
@@ -31,7 +36,7 @@
 地址：[Loseprivacy](https://idouyin.io/2i)（进不去的关掉vpn再进）
 
 
-### 3.明网社工库
+### 4.明网社工库
 
 上线时间很久了，但是数据依旧很烂，摆烂社工库，充值后可能会查不出什么东西，可以做最后的尝试吧，试试其他免费社工库：
 
