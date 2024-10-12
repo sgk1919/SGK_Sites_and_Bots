@@ -422,7 +422,8 @@
 
 
 
+参考：
 
 
-更多社工库参见： [https://www.shegongku.top/](https://www.shegongku.top/)。
-免费社工库交流分享频道：[https://t.me/tg_sgk_share](https://t.me/tg_sgk_share)。
+* 社工库导航： [https://www.shegongku.top/](https://www.shegongku.top/)。
+* 免费社工库交流分享频道：[https://t.me/tg_sgk_share](https://t.me/itheikeji)。
