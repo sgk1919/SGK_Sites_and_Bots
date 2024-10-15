@@ -118,7 +118,7 @@
 常用查询关键词: QQ|邮箱|用户名|电话|姓名|身份号
 
 地址链接：[@aishegongkubot](https://idouyin.io/41)，安装Telegram后，复制账号到Telegram搜索账号即可进入。
-[Botbot](https://idouyin.io/41)
+
 
 
 <br>
