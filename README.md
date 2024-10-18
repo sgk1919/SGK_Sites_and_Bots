@@ -79,7 +79,7 @@
 
 🔍可查询：身份证、手机号、姓名、家庭住址、个人户籍、QQ绑定、微博绑定、**学习通数据、微信id数据、支付宝模糊绑定**、银行卡、同邮服、群关系、模糊找人
 
-地址: [@HeePing_SGK](https://idouyin.io/41)，安装Telegram后，复制账号到Telegram搜索账号即可进入。
+地址: [@HeeeePing_SGK](https://idouyin.io/41)，安装Telegram后，复制账号到Telegram搜索账号即可进入。
 
 备注：每日签到获取2积分，每日两次免费查询机会。模糊找人功能。
 
@@ -93,7 +93,7 @@
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/space.png" alt="Space社工库" border="0"></a>
 
 
-地址: [@Spaace_SGK](https://idouyin.io/41) ，具体使用教程： <a href="https://www.shegongku.top/77.html" target="_blank">Space社工库机器人: 身份户籍/开房记录，隐私信息免费查询</a>。需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+地址: [@Spaaaace_SGK](https://idouyin.io/41) ，具体使用教程： <a href="https://www.shegongku.top/77.html" target="_blank">Space社工库机器人: 身份户籍/开房记录，隐私信息免费查询</a>。需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 备注：~每日签到可获取3次免费查询机会~，现在没有签到功能了。
 
